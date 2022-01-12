@@ -1,5 +1,6 @@
 # How to publish your own [neuron] site
 
+### My paragraph
 my note! 
 
 [neuron] is a note-taking app optimized for publishing. Use this template repository to get started with [publishing](https://neuron.zettel.page/778816d3.html) your own neuron site that looks like [one of these][examples].
